@@ -2,7 +2,7 @@
 	"name" : "Disable Custom Heist Anticheats",
 	"description" : "Removes anticheats present in custom heists that also impact legitimate users using mods that overhaul certain mechanics, such as restoration mod.",
 	"author" : "RedFlame",
-	"contact" : "Discord: RedFlame#3868",
+	"contact" : "Discord: RedFlame#3870",
 	"version" : "1",
 	"priority" : "499",
 	"blt_version" : 2,
